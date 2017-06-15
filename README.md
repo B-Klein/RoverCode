@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Program to take in a list of rover commands and prints out the final location. 
 
 Requirements:
@@ -11,3 +12,7 @@ Unit testing:
 
 For documentation of individual methods and code structure run: 
 	python -c 'import rover ; help(rover)'
+=======
+# RoverCode
+take in a list of rover commands and prints out the final location.
+>>>>>>> 67f4254816c7736e005b7eb02b80967a43f57948
